@@ -20,4 +20,9 @@ export const profiles: ProfileProps[] = [
     name: "Satwik R Prabhu",
     quote: "I know where you live 🌝",
   },
+  {
+    username: "Ankitha09",
+    name: "Ankitha",
+    quote: "i am good girl",
+  },
 ];

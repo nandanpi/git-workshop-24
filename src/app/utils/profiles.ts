@@ -4,10 +4,10 @@ export type ProfileProps = {
   quote?: string;
 };
 
-export const profiles: ProfileProps[] = [
+export const profiles: ProfileProps[] = 
   {
-    username: "nandanpi",
-    name: "Nandan Pai",
+    username: "chalanaas",
+    name: "chalana",
     quote: "Nandan likes Cartoon Network! so childish",
   },
   {

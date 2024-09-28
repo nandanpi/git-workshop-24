@@ -56,5 +56,10 @@ export const profiles: ProfileProps[] = [
     name: "Anshul Sai Mishra",
     quote: "This is a Quote.",
   },
+    {
+    username: "dyuthi_shree",
+    name: "dyuthishree",
+    quote: "live life as theres no tmmr",
+  },
 ];
 

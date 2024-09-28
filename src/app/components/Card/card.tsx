@@ -4,7 +4,13 @@ import Tilt from "react-parallax-tilt";
 import { ProfileProps } from "~/app/utils/profiles";
 import styles from "./card.module.css";
 
+
 export default function Card({ username, name, quote }: ProfileProps) {
+  if (username == "nandanpi") {
+    username = `https://firebasestorage.googleapis.com/v0/b/tasc-app-ae1ac.appspot.com/o/nandane.png?alt=media`;
+  } else {
+    username = `https://github.com/${username}.png`;
+  }
   return (
     <>
       <Tilt
@@ -12,7 +18,7 @@ export default function Card({ username, name, quote }: ProfileProps) {
         tiltReverse={true}
       >
         <Image
-          src={`https://github.com/${username}.png`}
+          src={username}
           alt={`${name}'s Profile Image`}
           fill
           objectFit="cover"

@@ -21,3 +21,20 @@ export const profiles: ProfileProps[] = [
     quote: "I know where you live 🌝",
   },
 ];
+export const profiles: ProfileProps[] = [
+  {
+    username: "dyuthi_shree",
+    name: "dyuthishree",
+    quote: "live life as theres no tmmr",
+  },
+  {
+    username: "prabhuomkar9",
+    name: "Omkar Prabhu",
+    quote: "I hate nandan",
+  },
+  {
+    username: "satwikrprabhu",
+    name: "Satwik R Prabhu",
+    quote: "I know where you live 🌝",
+  },
+];

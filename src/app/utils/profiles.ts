@@ -6,9 +6,9 @@ export type ProfileProps = {
 
 export const profiles: ProfileProps[] = [
   {
-    username: "nandanpi",
-    name: "Nandan Pai",
-    quote: "Nandan likes Cartoon Network! so childish",
+    username: "Adarsh-HN",
+    name: "Adarsh H N",
+    quote: "Adarsh likes Cartoon Network! so childish",
   },
   {
     username: "prabhuomkar9",

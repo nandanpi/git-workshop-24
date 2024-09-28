@@ -1,0 +1,15 @@
+.baseCard {
+  transform-style: preserve-3d;
+}
+
+.rised {
+  transform: translateZ(60px);
+}
+
+.rised2 {
+  transform: translateZ(75px);
+}
+
+.rised3 {
+  transform: translateZ(90px);
+}

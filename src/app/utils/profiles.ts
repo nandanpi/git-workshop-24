@@ -21,6 +21,12 @@ export const profiles: ProfileProps[] = [
     quote: "I know where you live 🌝",
   },
 
+  {
+   username: "Ayush-raii",
+   name: "AYUSH RAI",
+   quote: "president",
+  },
+
   { username: "123nidhj", 
   name: "nidhi s shetty", 
   quote: "Loves Food", 
@@ -31,3 +37,4 @@ export const profiles: ProfileProps[] = [
     quote: "This is a Quote.",
   },
 ];
+

@@ -15,9 +15,15 @@ export const profiles: ProfileProps[] = [
     name: "Omkar Prabhu",
     quote: "I hate nandan",
   },
+  
   {
     username: "satwikrprabhu",
     name: "Satwik R Prabhu",
     quote: "I know where you live 🌝",
+  },
+  {
+    username: "Anush1214",
+    name: "Nigga",
+    quote: "heyy!! im ot blackkk!:(",
   },
 ];

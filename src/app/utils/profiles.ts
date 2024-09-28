@@ -24,5 +24,59 @@ export const profiles: ProfileProps[] = [
     username: "Ruchitha654",
     name: "Ruchitha Prabhu",
     quote: "Hii",
+  },{
+    username: "Nishj0gi",
+    name: "Nishmitha",
+    quote: "Have a nice day!",
+  },{
+
+    username: "Sharva05",
+    name: "Shava Dhanvi V",
+    quote: "I'll kill you tonight",
+  },{
+    username: "MitheshShettty",
+    name: "Mithesh R Shetty",
+    quote: "I'm Confused",
+  },{
+
+    username: "Sahana-pixel",
+    name: "Sahana s acharya",
+    quote: "I love coding ",
+ },
+  {
+    username: "Rithesh0324",
+    name: "Rithesh shenoy",
+    quote: "I know where you live 🌝",
+      },
+  {
+    username: "keetha1011",
+    name: "Keerthan",
+    quote: "KrashKanter",
+  },
+{
+  username: "arshith",
+  name: "Arshith10",
+  quote: "i love aloy",
+},
+  {
+   username: "Ayush-raii",
+   name: "AYUSH RAI",
+   quote: "president",
+  },
+
+  { username: "123nidhj", 
+  name: "nidhi s shetty", 
+  quote: "Loves Food", 
+  },
+  {
+    username: "Ansh-Sai",
+    name: "Anshul Sai Mishra",
+    quote: "This is a Quote.",
+  },
+    {
+    username: "dyuthi_shree",
+    name: "dyuthishree",
+    quote: "live life as theres no tmmr",
   },
 ];
+

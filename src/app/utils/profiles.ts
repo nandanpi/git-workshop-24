@@ -22,6 +22,12 @@ export const profiles: ProfileProps[] = [
   },
 
   {
+    username: "hegdeujwal",
+    name: "Ujwal Hegde",
+    quote: "FOLLOW rhythmic_hegde ON INSTAGRAM"
+  },
+
+  {
     username: "Mithun095",
     name: "V Mithun Mallya",
     quote: "who is uniq_myth ?? ",
